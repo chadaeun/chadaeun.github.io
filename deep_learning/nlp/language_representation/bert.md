@@ -170,4 +170,8 @@ sequence-level classification에서는 [CLS] token에 대응하는 final hidden 
 
 ---
 
-## 4 Experiments TODO
+## 4 Experiments
+
+![Experiments](bert/experiment.png)
+
+(논문 figure 3)
