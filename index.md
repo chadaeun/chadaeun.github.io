@@ -2,18 +2,18 @@
 
 [github](https://github.com/chadaeun)
 
- Deep Learning
+## Deep Learning
 
- NLP
+### NLP
 
 [BERT](deep_learning/nlp/language_representation/bert.md)
 
- Machine Learning
+## Machine Learning
 
- Clustering
+### Clustering
 
 [BIRCH](machine_learning/clustering/birch.md)
 
- Testing
+## Testing
 
 [How Google Tests Software](testing/how_google_tests_software.md)
