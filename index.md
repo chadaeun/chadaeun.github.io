@@ -17,3 +17,7 @@
 ## Testing
 
 [How Google Tests Software](testing/how_google_tests_software.md)
+
+## GIT
+
+[Commit Message](/git/commit_message.md)
